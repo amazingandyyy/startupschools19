@@ -44,9 +44,9 @@ go -> https://www.startupschool.org/dashboard
       - don't design by committee(have a way to verify, e.g. premium paywall, ask for credit card, or ask for signup for new feature)
       - discard bad data, ignore compilements
 
-## Week 1 Lectures Q&A
+### Week 1 Lectures Q&A
 
-### ## WEEK 2
+## WEEK 2
 
 ### How to Set KPIs and Goals
 
