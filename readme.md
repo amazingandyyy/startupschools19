@@ -22,9 +22,25 @@
   - What, if anyting, have you done to try to solve the problem?
   - What's don't you love about the solutions you've tried?
 - Talking to users is useful at all stages:
-  - Got idea? -> find user with problem
-  - Build prototype -> best first customer
+  - Idea stage -> find user with the problem
+    - yourself, friends, coworkers, intros
+    - dropy by in person, just show up
+    - industry events
+    - tips
+      - take notes, or bring someone to take notes
+      - keep it casual
+      - careful with their time
+  - Prototype stage -> identify best first customer
+    - find numerical answers to:
+      - *how much* does this problem cost them(user's ROI, portenial savings to user)
+      - how frequent is the problem (daily, monthly, quarterly?)
+      - ability to fix: how large is their budget($ and authority)
   - Launched -> find product market fit
+    - Superhuer's [PMF](https://firstround.com/review/how-superhuman-built-an-engine-to-find-product-market-fit/)
+    - tips
+      - ask for phone number when signup
+      - don't design by committee(have a way to verify, e.g. premium paywall, ask for credit card, or ask for signup for new feature)
+      - discard bad data, ignore compilements
 
 ## Week 1 Lectures Q&A
 
