@@ -1,6 +1,6 @@
-# Startup School - Spring 2019
+# Startup School Online - Summer 2019
 
--> https://www.startupschool.org/dashboard
+go -> https://www.startupschool.org/dashboard
 
 ## WEEK 1
 
