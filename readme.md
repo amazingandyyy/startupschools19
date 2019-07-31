@@ -1,0 +1,83 @@
+# Startup School - Spring 2019
+
+## WEEK 1
+
+### Startup School 2019 Orientation
+
+### How to Evaluate Startup Ideas Pt. 1
+
+### How to Talk to Users
+
+- The Mom Test
+  - Talk about their life, not your idea.
+  - Talk specifics, not hypotheticals
+  - Listen, don't talk
+- 5 great questions you can ask in every user interview
+  - What's the hardest part about [doing this thing]?
+  - Tell me about the last time you encountered that problem...
+    - in details, when where why how
+    - reference back to real life example and to see if your solution can solve this specific event
+  - Why was that hard?
+    - understand how to market the product, **customer don't buy what, they buy why.**
+  - What, if anyting, have you done to try to solve the problem?
+  - What's don't you love about the solutions you've tried?
+- Talking to users is useful at all stages:
+  - Got idea? -> find user with problem
+  - Build prototype -> best first customer
+  - Launched -> find product market fit
+
+## Week 1 Lectures Q&A
+
+### ## WEEK 2
+
+### How to Set KPIs and Goals
+
+### How to Plan an MVP
+
+## WEEK 3
+
+### How Investors Measure Consumer Startups
+
+### How Investors Measure B2B Startups
+
+## WEEK 4
+
+### How to Launch (Repeatedly)
+
+### The Mechanics of Growth
+
+## WEEK 5
+
+### How to Avoid Startup Finance Pitfalls
+
+### Improving Cofounder Communication
+
+## WEEK 6
+
+### How to Create a Healthy Culture
+
+### When and How to Pivot
+
+## WEEK 7
+
+### How to Improve Conversion Rates
+
+### Intro to Pricing
+
+## WEEK 8
+
+### How to Prioritize Your Time
+
+### How to Evaluate Startup Ideas Pt. 2
+
+## WEEK 9
+
+### Advice for Hardtech and Biotech Startups
+
+### Intro to Modern Startup Investments
+
+## WEEK 10
+
+### How to Talk to Investors About Your Startup
+
+### How to Become a $100B Company
