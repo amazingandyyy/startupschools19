@@ -9,7 +9,7 @@
 
 ### How to Evaluate Startup Ideas Pt. 1
 
-### How to Talk to Users [link](https://www.startupschool.org/videos/63)
+### How to Talk to Users - [video](https://www.startupschool.org/videos/63)
 
 - The Mom Test
   - Talk about their life, not your idea.
