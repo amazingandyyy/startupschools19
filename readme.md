@@ -1,4 +1,4 @@
-![YCombinator-Startup-School](https://user-images.githubusercontent.com/7886068/62188336-e2636180-b320-11e9-8d75-58927f26ebe7.png)
+<img width="200px" style="margin: auto" src="https://user-images.githubusercontent.com/7886068/62188336-e2636180-b320-11e9-8d75-58927f26ebe7.png"/>
 
 # Notes for [Startup School Online](https://www.startupschool.org/dashboard) - Summer 2019
 
