@@ -1,6 +1,6 @@
-# Startup School Online - Summer 2019
+![YCombinator-Startup-School](https://user-images.githubusercontent.com/7886068/62188336-e2636180-b320-11e9-8d75-58927f26ebe7.png)
 
-go -> https://www.startupschool.org/dashboard
+# Notes for [Startup School Online](https://www.startupschool.org/dashboard) - Summer 2019
 
 ## WEEK 1
 
