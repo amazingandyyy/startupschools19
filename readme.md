@@ -1,6 +1,7 @@
 <img width="300px" align="center" src="https://user-images.githubusercontent.com/7886068/62188336-e2636180-b320-11e9-8d75-58927f26ebe7.png"/>
 
-# Notes for [Startup School Online](https://www.startupschool.org/dashboard) - Summer 2019
+[Startup School Online](https://www.startupschool.org/dashboard)
+> notes for SSO - Summer 2019
 
 ## WEEK 1
 
