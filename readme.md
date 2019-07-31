@@ -1,12 +1,14 @@
 # Startup School - Spring 2019
 
+-> https://www.startupschool.org/dashboard
+
 ## WEEK 1
 
 ### Startup School 2019 Orientation
 
 ### How to Evaluate Startup Ideas Pt. 1
 
-### How to Talk to Users
+### How to Talk to Users [link](https://www.startupschool.org/videos/63)
 
 - The Mom Test
   - Talk about their life, not your idea.
