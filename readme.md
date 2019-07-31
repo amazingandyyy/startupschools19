@@ -24,7 +24,7 @@
 - Talking to users is useful at all stages:
   - Idea stage -> find user with the problem
     - yourself, friends, coworkers, intros
-    - dropy by in person, just show up
+    - dropy by in person, just show up, zoom interview
     - industry events
     - tips
       - take notes, or bring someone to take notes
