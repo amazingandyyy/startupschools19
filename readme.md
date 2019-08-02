@@ -49,7 +49,18 @@
 
 ## WEEK 2
 
-### How to Set KPIs and Goals
+### How to Set KPIs and Goals - Adora Cheung
+ - [course](https://www.startupschool.org/videos/64), [slide](https://www.dropbox.com/s/d23xdt1uqozn0z6/Adora%20Cheung%20-%20How%20to%20Set%20KPIs%20and%20Goals.pdf?dl=0)
+ - Primary Metric
+   >  every week in startup school  we've asked you in a software to fill out, to define your primary metric, and  then update its current value. By definition, you can only pick one, one primary metric, and it's the metric, if you had to, you'd be willing to bet the whole  company on. So, why just one metric? It's a way to focus and keep things  very simple.
+   - a goog metric
+     - represents delivery of real value - revenue is the best
+     - captures recurring value - does user come back, MRR for SaaS, DAU for daily newspaper
+     - lagging indicator for success
+     - usable feedback mechanism
+   - Revenue(MRR is the best) & Active User(Free user give different feedback, paid user gives more serious feedback)
+     - social network or your product need social effect(e.g. a marketplace), then DAU is maybe a better matric
+   
 
 ### How to Plan an MVP - Michal Seibel
 - [course](https://www.startupschool.org/videos/65), [slide](https://www.dropbox.com/s/fcrsi502e54i8eb/Michael%20Seibel%20-%20How%20to%20Plan%20an%20MVP.pdf?dl=0)
@@ -80,8 +91,8 @@
   - your MVP can still be just a simple website, explain what you want to do
 - launching
   - there is no special launch moment, nobody remember when twitter/google/fb launched
-  - launch = start getting customers!
-  - the idea is learning from customers is easier with an MVP than without, that's all.
+  - **launch = start getting customers**!
+  - **the idea is that learning from customers is easier with an MVP than without, that's all.**
 - heacks for building an MVP quickly
     - timebox it
     - write your spec!(otherwise it's so easy to change without noticing it, you need to write it down, so you know what you change)
@@ -96,10 +107,18 @@
       - how often
       - even user talk some features from other products, keep digging into the issue and scope the problem
   - Q: Stuck in the cycle of changing and not launching
-    - A: sometime, just don't think it's less special, just not change
-      - you want to find out a shirt and paint and throw it away, you don't want to keep editting or playing with one
-       PAUSE: https://youtu.be/1hHMwLxN6EM
-
+    - A: sometime, just don't think it's less special, just not change, dont think about being special or perfect.
+      - you want to find out a shirt and paint and destroy it, you don't want to tailoring that one shirt
+  - Q: What to answer in the build learn cycle.
+    - A: This is a simple question, does it solve the problem you want to solve. (recurring is a metric for this)
+  - Q: post MVP, should you work on grow or retention?
+    - A: Both!
+  - Q: How do you know when is product market fit?
+    - A: At the point that you don't need to worry about distribution any more, at the point that you are lost how to help the upcoming users tmr, there are just too many users coming! I am pretty sure we are going to die if we have too many users.
+      - and the fact is, almost no one gets product market fit.
+  - What happens if you learn more about the problem and the problem expands as  you start interacting with users?
+    - A: founders usually make the mistake, is they think they have  to solve the problem for all users.
+       - Founder needs to keep two things at the same time, e.g. Vision big, MVP small, Grow and retain...etc
 
 ## WEEK 3
 
