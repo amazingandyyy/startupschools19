@@ -79,8 +79,10 @@
     - ACV
     - TCV
     - Burn rate
-
-
+- You need to launch it first then matrics later.
+- Set a weekly % growth goal, so you can break down a ultimate goal into weekly pieces
+  ![image](https://user-images.githubusercontent.com/7886068/62403602-46657000-b543-11e9-98d0-19d9d047dcec.png)
+  
 ### How to Plan an MVP - Michal Seibel
 - [course](https://www.startupschool.org/videos/65), [slide](https://www.dropbox.com/s/fcrsi502e54i8eb/Michael%20Seibel%20-%20How%20to%20Plan%20an%20MVP.pdf?dl=0)
 - Talk to your users before writing code
