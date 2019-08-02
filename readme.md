@@ -51,7 +51,55 @@
 
 ### How to Set KPIs and Goals
 
-### How to Plan an MVP
+### How to Plan an MVP - Michal Seibel
+- [course](https://www.startupschool.org/videos/65), [slide](https://www.dropbox.com/s/fcrsi502e54i8eb/Michael%20Seibel%20-%20How%20to%20Plan%20an%20MVP.pdf?dl=0)
+- Talk to your users before writing code
+  - not 3 yrs research
+  - some versation helps, it will be awesome if you are own user
+- Goal of pre-launch startup:
+  - LAUNCH SOMETHING BAD QUICKLY!
+  - Get Initial users, just get anyone use the product!
+  - Talk to your users and get feedback
+  - Iterate (improve the product)
+- Lean MVP
+  - VERY FAST to build (weeks not months)
+  - very limited functionality
+  - appeal to a small set of users
+  - A base to iterate from
+- Example 1: Aribnb MVP
+  - No payments, no map view, part-time CTO
+- Example 2: Twitch
+  - Only video and chat, only 1 channel, low res video, no video games
+- Example 3: stripe(/dev/payments)
+  - no bank deals, few features, founder would come to your office and setup up for you
+- some cases: Heavy MVP
+  - industry with significant regulation(insurance, banking)
+  - hardtech - rocket
+  - biotech
+  - moonshot(dig tunnels?)
+  - your MVP can still be just a simple website, explain what you want to do
+- launching
+  - there is no special launch moment, nobody remember when twitter/google/fb launched
+  - launch = start getting customers!
+  - the idea is learning from customers is easier with an MVP than without, that's all.
+- heacks for building an MVP quickly
+    - timebox it
+    - write your spec!(otherwise it's so easy to change without noticing it, you need to write it down, so you know what you change)
+    - cut your spec! make sure you launch and roll out something, otherwise, it's so easy to change
+    - don't fall love with your MVP/idea
+- Q/A
+  - Q: I talked user but their feedback kinda even out
+    - A: never ask user for features, ask for "Problems"! There must be an overlay with problem!
+      - what's the problem
+      - how much you will pay
+      - do anyone else have that problem
+      - how often
+      - even user talk some features from other products, keep digging into the issue and scope the problem
+  - Q: Stuck in the cycle of changing and not launching
+    - A: sometime, just don't think it's less special, just not change
+      - you want to find out a shirt and paint and throw it away, you don't want to keep editting or playing with one
+       PAUSE: https://youtu.be/1hHMwLxN6EM
+
 
 ## WEEK 3
 
