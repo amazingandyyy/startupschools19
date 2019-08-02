@@ -52,7 +52,9 @@
 ### How to Set KPIs and Goals - Adora Cheung
  - [course](https://www.startupschool.org/videos/64), [slide](https://www.dropbox.com/s/d23xdt1uqozn0z6/Adora%20Cheung%20-%20How%20to%20Set%20KPIs%20and%20Goals.pdf?dl=0)
   - Primary Metric
-   >  every week in startup school  we've asked you in a software to fill out, to define your primary metric, and  then update its current value. By definition, you can only pick one, one primary metric, and it's the metric, if you had to, you'd be willing to bet the whole  company on. So, why just one metric? It's a way to focus and keep things  very simple.
+
+  >  every week in startup school  we've asked you in a software to fill out, to define your primary metric, and  then update its current value. By definition, you can only pick one, one primary metric, and it's the metric, if you had to, you'd be willing to bet the whole  company on. So, why just one metric? It's a way to focus and keep things  very simple.
+
     - a goog metric
       - represents delivery of real value - revenue is the best
       - captures recurring value - does user come back, MRR for SaaS, DAU for daily newspaper
