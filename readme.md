@@ -55,31 +55,31 @@
 
   >  every week in startup school  we've asked you in a software to fill out, to define your primary metric, and  then update its current value. By definition, you can only pick one, one primary metric, and it's the metric, if you had to, you'd be willing to bet the whole  company on. So, why just one metric? It's a way to focus and keep things  very simple.
 
-    - a goog metric
-      - represents delivery of real value - revenue is the best
-      - captures recurring value - does user come back, MRR for SaaS, DAU for daily newspaper
-      - lagging indicator for success
-      - usable feedback mechanism
-    - Revenue(MRR is the best) & Active User(Free user give different feedback, paid user gives more serious feedback)
-      - social network or your product need social effect(e.g. a marketplace), then DAU is maybe a better matric
-    - Two side platform: find a matric that can represent value of both side, night book for Airbnb, weekely rides for Uber
-  - Secondary metric
-    - metrics
-      - Retention
-       - Revenue Churn
-       - CAC
-       - Payback period
-       - NPS
-       - Email conversion
-       - Organic as paid users
-       - Referral rate
-       - Contribution margin
-       - Gross margin
-       - GMV
-       - ACV
-       - TCV
-       - Burn rate
-     
+  - a good metric
+    - represents delivery of real value - revenue is the best
+    - captures recurring value - does user come back, MRR for SaaS, DAU for daily newspaper
+    - lagging indicator for success
+    - usable feedback mechanism
+  - Revenue(MRR is the best) & Active User(Free user give different feedback, paid user gives more serious feedback)
+    - social network or your product need social effect(e.g. a marketplace), then DAU is maybe a better matric
+  - Two side platform: find a matric that can represent value of both side, night book for Airbnb, weekely rides for Uber
+- Secondary metric
+  - metrics
+    - Retention
+    - Revenue Churn
+    - CAC
+    - Payback period
+    - NPS
+    - Email conversion
+    - Organic as paid users
+    - Referral rate
+    - Contribution margin
+    - Gross margin
+    - GMV
+    - ACV
+    - TCV
+    - Burn rate
+
 
 ### How to Plan an MVP - Michal Seibel
 - [course](https://www.startupschool.org/videos/65), [slide](https://www.dropbox.com/s/fcrsi502e54i8eb/Michael%20Seibel%20-%20How%20to%20Plan%20an%20MVP.pdf?dl=0)
