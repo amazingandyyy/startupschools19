@@ -44,7 +44,19 @@
       - ask for phone number when signup
       - don't design by committee(have a way to verify, e.g. premium paywall, ask for credit card, or ask for signup for new feature)
       - discard bad data, ignore compilements
-
+  - define your own goal
+    - What does success look like for you and what does being on track look like to you? 
+  - Goal:
+    - fast initial growth
+    - how long it takes to sell (enterprise sells from months to days)
+    - organic(discovered worth of mouth) vs paid growth (avoid it in the early stage)
+    - exponential(startup sould look for this) vs linear
+  - Tracking progress  
+    - timebox of obsolete goal, e.g. what you want at the end of startupschool, then go back to get your weekley growth goal
+    - print out and put it everywhere, bathroom, desk...etc and update it every week.
+    - it's okay to not hit the goal in two weeks in a row as long as you know "why". if you don't know why, the best way is to talk to users, don't spin in the circle and talk to yourself.
+    
+  
 ### Week 1 Lectures Q&A
 
 ## WEEK 2
@@ -140,6 +152,18 @@
   - What happens if you learn more about the problem and the problem expands as  you start interacting with users?
     - A: founders usually make the mistake, is they think they have  to solve the problem for all users.
        - Founder needs to keep two things at the same time, e.g. Vision big, MVP small, Grow and retain...etc
+### Analytics for Startups - Ilya Volodarsky, co-founder of Segmen
+- Why analytics
+  - test product market fit
+  - focus on the team
+  - operate/grow the company
+- Funnels
+  - signups
+  - re-engaged week over week
+  - MRR
+- Collecting Data
+- Top 3 Metrics - PMF methodology
+- tools
 
 ## WEEK 3
 
